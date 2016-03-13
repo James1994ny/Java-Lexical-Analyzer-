@@ -1,0 +1,41 @@
+if
+i[
+iff
+fii
+IF
+if[
+ifififif
+class
+cla
+c
+class[
+Class
+Classs
+clAss
+n
+nuL
+nu[
+null
+null[
+Null
+NULL
+
+
+CS316-CS313
+CS316_CS313
+CS#316
+CS]316
+
+((arithExample x1 x2 x3 x4 x5)
+  (* (+ x1 x2 x3 x4 x5)
+     (- x1 x2 x3 x4 x5)
+     (/ x1 x2 x3 x4 x5)
+  )
+)
+
+((BoolExample b1 b2 b3 b4 b5)
+  (& (| b1 b2 b3 b4 b5)
+     (& b1 b2 b3 b4 b5)
+     (! b3)
+  )
+)
