@@ -54,7 +54,7 @@ The functions "driver", "getToken" remain the same.
 
 
 public abstract class LexArith extends IO
-{						//James Park Project 1 submission. CS316 3/11/16 CUNY ID:23084108
+{					
 	public enum State 
        	{ 
 	  // non-final states     ordinal number
